@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
-import Stairs from './components/common/stairs.jsx'
+import Stairs from './components/common/Stairs.jsx'
 import NavContext from './Context/NavContext.jsx'
 
 createRoot(document.getElementById('root')).render(
